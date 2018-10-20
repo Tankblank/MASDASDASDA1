@@ -2,14 +2,57 @@
   "name": "Test",
   "description": "Test",
   "version": "0.0.0",
-  "main": "index.js",
+  "main": "bot1.js",
   "scripts": {
-    "start": "node bot1.js"
-    "start": "node bot2.js"
-    "start": "node bot3.js"
-    "start": "node bot4.js"
-    "start": "node bot5.js"
-    
+    "start": "node bot1.js"   
+  },
+  "dependencies": {
+   "discord.js": "^11.3.2"
+  }
+}
+{
+  "name": "Test2",
+  "description": "Test2",
+  "version": "0.0.0",
+  "main": "bot2.js",
+  "scripts": {
+    "start": "node bot2.js"   
+  },
+  "dependencies": {
+   "discord.js": "^11.3.2"
+  }
+}
+{
+  "name": "Test3",
+  "description": "Test3",
+  "version": "0.0.0",
+  "main": "bot3.js",
+  "scripts": {
+    "start": "node bot3.js"   
+  },
+  "dependencies": {
+   "discord.js": "^11.3.2"
+  }
+}
+{
+  "name": "Test4",
+  "description": "Test4",
+  "version": "0.0.0",
+  "main": "bot4.js",
+  "scripts": {
+    "start": "node bot4.js"   
+  },
+  "dependencies": {
+   "discord.js": "^11.3.2"
+  }
+}
+{
+  "name": "Test5",
+  "description": "Test5",
+  "version": "0.0.0",
+  "main": "bot5.js",
+  "scripts": {
+    "start": "node bot5.js"   
   },
   "dependencies": {
    "discord.js": "^11.3.2"
