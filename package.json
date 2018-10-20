@@ -9,9 +9,8 @@
   "dependencies": {
    "discord.js": "^11.3.2"
   }
-  
-"scripts": {
-    "start": "node bot2js"
+  "scripts": {
+    "start": "node bot1.js"
   },
 "scripts": {
     "start": "node bot3.js"
