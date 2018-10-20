@@ -4,7 +4,12 @@
   "version": "0.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node bot1.js"
+    "start": "node bot2.js"
+    "start": "node bot3.js"
+    "start": "node bot4.js"
+    "start": "node bot5.js"
+    
   },
   "dependencies": {
    "discord.js": "^11.3.2"
